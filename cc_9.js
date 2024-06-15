@@ -1,4 +1,4 @@
-// U41684674
+// U41684674 Antonio Santana
 document.addEventListener("DOMContentLoaded", function() {
     // Data points
     const data = [10, 20, 30, 40, 50];
